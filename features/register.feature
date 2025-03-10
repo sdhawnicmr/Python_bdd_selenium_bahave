@@ -1,6 +1,6 @@
 Feature: Register new user functionality
 
-  @comp
+  @register
   Scenario: Register a new user with valid details
     Given User navigates to Register page
     When user enters all the fields
